@@ -66,8 +66,8 @@ export default function Home() {
                   testimonies documenting trafficking routes across Africa and Europe. The work involved cleaning and restructuring
                   deeply unstructured interview data, building a custom OWL ontology for human trafficking entities (victims,
                   traffickers, border crossings, abuses), converting the data into RDF triples via Python's rdflib, and loading
-                  it into AllegroGraph for SPARQL querying. The result: an interactive Streamlit dashboard and Gephi network
-                  visualisations that reveal trafficking routes, key actors, and transit hotspots — making complex, sensitive
+                  it into AllegroGraph for SPARQL querying. The result are an interactive Streamlit dashboard and Gephi network
+                  visualisations that reveal trafficking routes, key actors, and transit hotspots making complex, sensitive
                   data accessible to non-technical researchers while preserving strict privacy safeguards.
                 </p>
                 <a href="https://www.researchgate.net/publication/391762371_Creation_of_a_FAIR_Data_Point_for_a_Clinical_Trial_the_schistosome_controlled_human_infection_dataset" target="_blank" rel="noopener noreferrer" className="text-xs underline underline-offset-4 text-[#C084B0] hover:text-[#8B4A7A] transition-colors">View Publication</a>
